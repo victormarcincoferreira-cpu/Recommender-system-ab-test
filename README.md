@@ -104,13 +104,14 @@ Não implementar o novo sistema neste momento.
 
 ```bash
 ├── notebooks/
-│   └── ab_test_analysis.ipynb
+│   └── Recommender-system-ab-test.ipynb
 ├── data/
 │   ├── ab_project_marketing_events_us.csv
 │   ├── final_ab_new_users_upd_us.csv
 │   ├── final_ab_events_upd_us.csv
 │   └── final_ab_participants_upd_us.csv
 └── README.md
+└── requirements.txt
 ```
 
 ---
